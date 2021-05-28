@@ -1,0 +1,14 @@
+# Add script to:
+# * Install dependencies
+# * Build/Compile
+# * Run Test Suit to validate
+#
+# After this is run, bin/parking_lot
+# should Just Work.
+
+# Install All dependenicies
+npm install
+
+#Run Test Suit
+npm test .\Tests\Test.js
+
